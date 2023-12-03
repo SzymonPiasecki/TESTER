@@ -1,5 +1,6 @@
-coś zmieniam w tym pliku 
+
 
 dopisuje Ala ma kota 
 
 
+dopisuje Ala ma 2 koty
